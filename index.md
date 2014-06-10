@@ -22,4 +22,4 @@ Aerofoil is still in the early stages of development; there is no working versio
 
 ####IRC
 
-`#aerofoil` on [irc.freenode.net](irc.freenode.net)
+[`#aerofoil` on irc.freenode.net](irc://irc.freenode.net/aerofoil)
