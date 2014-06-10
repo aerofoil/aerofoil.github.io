@@ -1,4 +1,4 @@
-![Aerofoil](https://raw.githubusercontent.com/aerofoil/graphics/master/logos/logo.png)
+![Aerofoil](http://raw.githubusercontent.com/aerofoil/graphics/master/logos/logo-black.png)
 
 a low-camber Linux distribution
 ===
