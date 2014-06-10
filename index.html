@@ -4,6 +4,7 @@ title: Aerofoil
 ---
 <div class="wrapper">
     <section>
-        {% markdown README.md %}
+{% capture sidebar %}{% include README.md %}{% endcapture %}
+{{ README | markdownify }}
     </section>
 </div>
