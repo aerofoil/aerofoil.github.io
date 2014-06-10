@@ -15,4 +15,4 @@ aerodev@openmailbox.org
 
 ### IRC
 
-[#aerofoil on Freenode](http://webchat.freenode.net/?randomnick=0&channels=%23aerofoil)
+[#aerofoil](http://webchat.freenode.net/?randomnick=0&channels=%23aerofoil)  on freenode.net
