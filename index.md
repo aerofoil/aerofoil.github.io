@@ -1,20 +1,21 @@
 ---
 layout: default 
-title: Aerofoil - i3wm based distribution
+title: Aerofoil
 ---
 
-#Welcome to Aerofoil
-Aerofoil is an [i3](http://i3wm.org/)-based Linux distribution with the goal of being low-camber (light) while still generating adequate lift (functionality). Its goal is to be as minimal as practical.
+Aerofoil is an [i3](http://i3wm.org/)-based Linux distribution with the goal of being as minimal as practical.
 
-It is currently based of Debian but we want to release versions based on other distributions as well in the future.
+It is currently Debian-derived, but there will eventually be versions based on other distributions.
+
+
 
 
 ##Contributing
-Aerofoil is still in the early stages of development and there is no working version yet. If you would like to contribute, please contact us or join us on IRC.
+Aerofoil is still in the early stages of development; there is no working version yet. If you would like to contribute, please contact us via email, raise an issue in the relevant repository, or join us on IRC.
 
-##Contact
+##contact
 
-####Mail
+####mail
 <aerofoil@openmailbox.org>
 
 <aerodev@openmailbox.org>
