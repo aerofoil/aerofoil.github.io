@@ -12,14 +12,3 @@ It is currently Debian-derived, but there will eventually be versions based on o
 
 ##contributing
 Aerofoil is still in the early stages of development; there is no working version yet. If you would like to contribute, please contact us via email, raise an issue in the relevant repository, or join us on IRC.
-
-##contact
-
-####mail
-<aerofoil@openmailbox.org>
-
-<aerodev@openmailbox.org>
-
-####IRC
-
-[`#aerofoil` on irc.freenode.net](irc://irc.freenode.net/aerofoil)
