@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/ke7ofi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://aerofoil.org
+  * I am ke7ofi (https://keybase.io/ke7ofi) on keybase.
+  * I have a public key with fingerprint F342 138B 131F FBA1 0A56  1697 5DE1 B0A8 9BF2 A878
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.8"
+        },
+        "key": {
+            "fingerprint": "f342138b131ffba10a5616975de1b0a89bf2a878",
+            "host": "keybase.io",
+            "key_id": "5DE1B0A89BF2A878",
+            "uid": "941578b5498b26e53cde939aabf32200",
+            "username": "ke7ofi"
+        },
+        "merkle_root": {
+            "ctime": 1403216516,
+            "hash": "5def9af8870f091a58cc1617aba0766b9b73854ab1c7f069e2be565d940dd8b335d1a745b631ae4ee8bae0706d9f3410d8b82a2c32198e46d288e0a09fa6d838",
+            "seqno": 21178
+        },
+        "service": {
+            "hostname": "aerofoil.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1403216546,
+    "expire_in": 157680000,
+    "prev": "6d9d76f659bdd913d75ec74a87b7b0f2baa3bead9db6f07daf00199d8db47953",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFdkl+IVUUcx++9WbbSgtXmlohsJ01y9TJzzpl/92FBcXsQItYVSUpuM2dm7j3u
+7jm3c6831+0W6r6UYJubFASJirKuYDcVNC49KBKVuBEitbTgWgi1akjZQ5RuM+uf
+rHmamd9nvr/f9/eboeYHUpn0hkv1kY9+G9mcPvuLSHXvF/sGHBHLfic34AS9oYoq
+dhfxPuXknB7VL3hZZcO4LYqlym4st91hljlVlZTDODIUyPpZ6tSWWdw+1mFUUEkp
+Ca2Woz3fhR4V0INaCw4BRxhiRpBUUABOmdAup4QayWJcrvwnqzOjmQ+luUWrOuFK
+sIKylc+7K27zm2YCzIeIUIF8RoWLFfICqZjHOBfac10ALFhWyT1LJNahrbZPJT29
+Kp/E8YzloBJaAPrAcyFGEJt6eLloM0ulGdeUEqABgxzRIIAYEi44IBgLJohHkc8F
+DIgGmClXKISRZD6QkgrPQxJy4iOBPciVrxQVXAECsGSmORAYhrrcDUxeRpWPpUup
+AhwwzbGknnVaVq9FsZNzISS0Zo9JNQyULdv27I41rpJYx2FvNk4K5k0piStxEPea
+SLFSKeWs50p/yZKvK5E3GqNWJC/CSJqJ3T9SaND/9cM3/VCbS2Gi8qElEMEUmGXz
+qKrRNG4kwRojJqRk0JMEqYD4ZrSCCKBdwbknFDeUwBoQyTUAkDFJpfAJQ96/Lqmp
+kxeMZDksRLyyKVFO7e30glmpdCb10IMZ+2dTc5rm3v3IL748e7rQsSasV3eu/nms
+c/6uzzrf+GTXuY+nlk58u/TGjmj39qlvspNdcUsmPbz2bOtTV0ULaV5e6B9cNb/d
+X9d1uXux+9WtLz84+PXNp7/YQ7se6Wi0Nw7u/X1B+6nj+P3rR/ecXtLS0/j01vWt
+G661vjq+7XTju6Hh7vrQr1cmWesL5499f2gw+8NfYPbNYMvC8cdP5NdNrH3zpYfT
+bc+ODvc9udhZlDnPg6swPHBjb6722LtR25l5H06rw9N/R5cGk3kTFyY/P0efO3Vc
+pE72rH+ruHD5n2PwzJL62Nz1xcbJNfVXpqIrpQPXcs3v+M/88WP9iWNNtOO90drF
+ge3s8oVoBFTHmx796eiJI/8A
+=WIxc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ke7ofi
+
+==================================================================
